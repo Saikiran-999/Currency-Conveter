@@ -1,4 +1,4 @@
-# Currency-Conveter
+# Currency-Converter
 ![currency-converter](https://github.com/user-attachments/assets/68823a7f-c422-4085-b9a9-b6faaec4bdc8)
 
 
